@@ -7,7 +7,7 @@ package dragonbones {
 
 	import dragonBones.Armature;
 	import dragonBones.Bone;
-	import dragonBones.factorys.NativeFactory;
+	import dragonBones.factories.NativeFactory;
 
 	import flash.display.Shape;
 	import flash.display.Sprite;

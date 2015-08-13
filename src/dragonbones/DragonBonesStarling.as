@@ -8,7 +8,7 @@ package dragonbones {
 
 	import dragonBones.Armature;
 	import dragonBones.Bone;
-	import dragonBones.factorys.StarlingFactory;
+	import dragonBones.factories.StarlingFactory;
 
 	import starling.display.Image;
 	import starling.display.Sprite;
